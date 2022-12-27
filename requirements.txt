@@ -1,7 +1,7 @@
 mccabe==0.6.1
 pycodestyle==2.8.0
 pywebio==1.6.1
-setuptools==58.1.0
+setuptools==65.5.1
 tornado==6.2
 ua-parser==0.15.0
 user-agents==2.2.0
