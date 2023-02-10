@@ -26,7 +26,13 @@ python -m venv venv
 
 ```bash
 source /venv/bin/activate # linux
-source /venv/Scripts/activate # windows
+```
+
+```bash
+source venv/Scripts/activate # windows
+```
+
+```bash
 python -m pip install --upgrade pip
 ```
 
